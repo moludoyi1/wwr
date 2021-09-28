@@ -9,7 +9,7 @@ Fonts are separated by a | */
   --primary-color: #5ca2d4   ;
   --secondary-color: #dfc474 ;
   --accent1-color: #78dfb74d;
-  --accent2-color: white;
+  --accent2-color: rgba(203, 157, 235, 0.705);
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Josefins Sans";
