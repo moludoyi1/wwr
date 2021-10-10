@@ -1,7 +1,22 @@
 body{
     max-width: 1600px;
+    text-align: center;
+    color: purple;
+    
+}
+header{
+    text-align: center;
 }
 div{
     margin: 0 auto;
+    max-width: 1600px;
+}
+img{
+    width: 40%;
+    display: block;
+    max-width: 1400px;
+}
+#content{
+    text-align: center;
     max-width: 1600px;
 }
