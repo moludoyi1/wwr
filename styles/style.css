@@ -21,15 +21,15 @@ img{
     max-width: 1600px;
 }
 footer, .msg{
-    font-size: 20%;
+    font-size: 50%;
     background-color: darkgray;
     margin: 10px;
+    color:rgb(177, 87, 52);
 }
 .social{
     width: 200px;
     position: left;
     margin-left: -12%;
-    display: ;
 }
 #end{
     text-align: left;
@@ -51,4 +51,7 @@ h2, p{
     color: black;
     font-size: 30%;
     background-color: lightsalmon;
+}
+h3{
+    text-align: left;
 }
