@@ -1,0 +1,16 @@
+body{
+    background-color: darkgray;
+}
+header img{
+    width: 100%;
+}
+.icon img{
+    display: inline-block;
+    width: 25%;
+    border: 10px solid rgb(102, 88, 88);
+    border-radius: 20em;
+    margin: 30px;
+}
+.icon{
+    text-align: center;
+}
