@@ -12,7 +12,6 @@ header{
     display: grid;
     grid-template-columns: 150px auto;
     background-color: rgba(20,30,13, .7);
-    
 }
 nav{
     display: flex;
